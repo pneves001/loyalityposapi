@@ -1,0 +1,13 @@
+{
+    "name": "pneves001/loyalityposapi",
+    "description": "This is the POS API of the loyality mobile marketing platform. This allows you to integrate functionality of the loyality mobile marketing platform into your POS System.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philip Neves",
+            "email": "pneves@nevessoftware.com"
+        }
+    ],
+    "require": {}
+}
