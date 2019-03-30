@@ -1,0 +1,1 @@
+Neves Software Inc. POS api provides access functions tto the loyality pos api. Loyality provides functionality for pos developers to provide gift cards, vouchers, and loyalty programs. MDevelopers can integrate loyality into their pos systems so that merchants can take advantage of this service to promote their businesses.
