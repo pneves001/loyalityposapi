@@ -59,5 +59,22 @@ your pos api. Or it can be a made up string. So long as the cashier number is un
 
 Installing the loyality API in your Laravel project. 
 
-
+    composer require pneves001/loyalityposapi 
     
+
+Setting the service provider. In your config/app.php file:
+
+    providers = [
+                // ...
+
+                'pneves001\LoyalityPosApi\LoyalityPosApiServiceProvider::class'
+                ]
+
+
+    aliases = [
+              // ...
+
+              'Loyality' => pneves001\loyalityposapi\Facades\LoyalityPosApi::class
+              ]
+
+
