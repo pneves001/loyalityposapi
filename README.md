@@ -8,7 +8,7 @@ for pos developers to provide gift cards, vouchers, and loyalty programs.
 Developers can integrate Loyality into their pos systems so that 
 merchants can take advantage of this service to promote their businesses.
 
-You can sign up to the Loyality service at the following url: 
+You can sign up to the Loyality service at the following url 
 
            (https://loyality.app)
 
