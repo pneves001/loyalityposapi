@@ -9,5 +9,21 @@
             "email": "pneves@nevessoftware.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "https://github.com/pneves001/loyalityposapi.git",
+            "options": {
+                "symlink": true
+            }
+        }
+    ],
+    "extra" : {
+	"providers" : [
+		"pneves001\\loyalityposapi\\LoyalityPosApiServiceProvider"
+		]
+	},
+    "require": {
+	}
 }
