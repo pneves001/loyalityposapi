@@ -9,7 +9,7 @@ Developers can integrate Loyality into their pos systems so that
 merchants can take advantage of this service to promote their businesses.
 
 
-You can sign up to the Loyality service at the following url: [https://loyality.app](https://loyality.app)
+You can sign up to the Loyality service at the following url: <a href="https://loyality.app" rel="dofollow">Loyality Website</a>
 
 
 
