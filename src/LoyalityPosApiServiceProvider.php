@@ -1,10 +1,10 @@
 <?php
 
 
-namespace pneves001\LoyalityPosApi;
+namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider; 
-
+use Illuminate\Support\Facades\App;
 
 class LoyalityPosApiServiceProvider extends ServiceProvider
 {
@@ -16,7 +16,7 @@ class LoyalityPosApiServiceProvider extends ServiceProvider
 
 	public function register()
 		{
-		$this->app->singleton('LoyalityPosApi', function () 
+		$this->app_>bind('LoyalityPosApi', function () 
 			{
 			return new pneves001\loyalityposapi\LoyalityPosApi; 
 			});

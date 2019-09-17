@@ -1,5 +1,8 @@
 <?php
 
+
+namespace pneves001\loyalityposapi;
+
 /**
  *  Loyality pos api. Available to implement pos systems and
  *  websites that want to use Loyality's gift cards, vouchers,
